@@ -1122,3 +1122,7 @@ DANE - RELACIÓN DE MUNICIPIOS Y DEPARTAMENTOS ACTUALIZADOS
 | 99 | VICHADA | 524 | LA PRIMAVERA |  |
 | 99 | VICHADA | 624 | SANTA ROSALIA |  |
 | 99 | VICHADA | 773 | CUMARIBO |  |
+
+#Etiquetas
+#CódigosDANE #MunicipiosColombia #DepartamentosColombia #TablaDANE #DatosColombia
+
