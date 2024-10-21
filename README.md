@@ -1,7 +1,5 @@
-| TABLA PARAMETROS
-DANE - RELACIÓN DE MUNICIPIOS Y DEPARTAMENTOS ACTUALIZADOS |  |  |  |  |
-| TABLA PARAMETROS
-DANE - RELACIÓN DE MUNICIPIOS Y DEPARTAMENTOS ACTUALIZADOS |  |  |  |  |
+TABLA PARAMETROS
+DANE - RELACIÓN DE MUNICIPIOS Y DEPARTAMENTOS ACTUALIZADOS
 | Código Departamento | Nombre Departamento | Código Municipio | Nombre Municipio |
 |---------------------|---------------------|------------------|------------------|
 | 05 | ANTIOQUIA | 001 | MEDELLIN |  |
