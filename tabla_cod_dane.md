@@ -1,6 +1,6 @@
 | TABLA PARAMETROS
 DANE - RELACIÓN DE MUNICIPIOS Y DEPARTAMENTOS ACTUALIZADOS |  |  |  |  |
-| --------------------------------------------------------------------------- |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Código
 Departamento | Nombre
 Departamento | Código
